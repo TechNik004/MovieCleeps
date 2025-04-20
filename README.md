@@ -109,7 +109,7 @@ Copyright ©️ [Tech VJ](https://telegram.me/Trexowner)
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://telegram.me/trexowner)
+### Copyright ©️ [TREX OWNER](https://telegram.me/trexowner)
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
