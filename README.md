@@ -85,13 +85,13 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Trexowner)
+💝 Credit Goes To [ᴛᴇᴄʜ ɴɪᴋ](https://telegram.me/Trexowner)
 
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/Trexowner) So Don't Forgot To Give Credit
+🖍️ This Code Is Fully Written Or Coded And Public By [ᴛᴇᴄʜ ɴɪᴋ](https://telegram.me/Trexowner) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Trexowner)
+Copyright ©️ [ᴛᴇᴄʜ ɴɪᴋ](https://telegram.me/Trexowner)
 
 </b>
 </details>
@@ -100,10 +100,10 @@ Copyright ©️ [Tech VJ](https://telegram.me/Trexowner)
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
-- YouTube Channel : [Tech VJ](https://youtube.com/)
-- Telegram Channel : [VJ Botz](https://telegram.me/newewwwwwwww)
-- Contact Link : [King VJ](https://telegram.me/trexowner)
-- Instagram Id Link : [Tech VJ](https://instagram.com/)
+- YouTube Channel : [ᴛᴇᴄʜ ɴɪᴋ](https://youtube.com/)
+- Telegram Channel : [ᴛᴇᴄʜ ɴɪᴋ](https://telegram.me/newewwwwwwww)
+- Contact Link : [ᴛᴇᴄʜ ɴɪᴋ](https://telegram.me/trexowner)
+- Instagram Id Link : [ᴛᴇᴄʜ ɴɪᴋ](https://instagram.com/)
 
 </b>
 </details>
