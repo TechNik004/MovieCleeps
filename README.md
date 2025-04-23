@@ -101,7 +101,7 @@ Copyright ©️ [ᴛᴇᴄʜ ɴɪᴋ](https://telegram.me/Trexowner)
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
 - YouTube Channel : [ᴛᴇᴄʜ ɴɪᴋ](https://youtube.com/)
-- Telegram Channel : [ᴛᴇᴄʜ ɴɪᴋ](https://telegram.me/newewwwwwwww)
+- Telegram Channel : [ᴛᴇᴄʜ ɴɪᴋ](https://t.me/TrexBotz)
 - Contact Link : [ᴛᴇᴄʜ ɴɪᴋ](https://telegram.me/trexowner)
 - Instagram Id Link : [ᴛᴇᴄʜ ɴɪᴋ](https://instagram.com/)
 
