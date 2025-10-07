@@ -17,9 +17,9 @@ API_ID = int(environ.get("API_ID", "10671416"))
 API_HASH = environ.get("API_HASH", "d32e7a9253928d78d7888c0b9998939d")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-PICS = (environ.get('PICS', 'https://envs.sh/WIL.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6667067260').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "FileShare_newBot") # without @
+PICS = (environ.get('PICS', 'https://envs.sh/z4a.jpg')).split() # Bot Start Picture
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6667067260 5225541255').split()]
+BOT_USERNAME = environ.get("BOT_USERNAME", "MovieCleeps_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
@@ -41,17 +41,17 @@ AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
 AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Seconds
 
 # Channel Information
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002601821160"))
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1003027241472"))
 
 # File Caption Information
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 
 # Enable - True or Disable - False
-PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
+PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), True)
 
 # Verify Info :-
-VERIFY_MODE = bool(environ.get('VERIFY_MODE', False)) # Set True or False
+VERIFY_MODE = bool(environ.get('VERIFY_MODE', True)) # Set True or False
 
 # If Verify Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 SHORTLINK_URL = environ.get("SHORTLINK_URL", "linkshortify.com") # shortlink domain without https://
